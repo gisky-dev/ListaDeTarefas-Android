@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="titulo_tela">Lista de Tarefas</string>
+    <string name="subtitulo_tela">Android Clássico • Java + XML</string>
+    <string name="hint_nova_tarefa">Digite uma nova tarefa…</string>
+    <string name="btn_adicionar">Adicionar</string>
+    <string name="empty_tarefas">Nenhuma tarefa cadastrada.\nAdicione a primeira acima!</string>
+
+    <string name="erro_campo_vazio">A descrição da tarefa não pode estar vazia</string>
+    <string name="sucesso_adicionada">Tarefa adicionada com sucesso!</string>
+    <string name="sucesso_atualizada">Tarefa atualizada com sucesso!</string>
+    <string name="sucesso_excluida">Tarefa excluída com sucesso!</string>
+
+    <string name="dialog_excluir_titulo">Excluir tarefa</string>
+    <string name="dialog_excluir_msg">Deseja realmente excluir a tarefa: \"%1$s\"?</string>
+    <string name="dialog_btn_excluir">Excluir</string>
+    <string name="dialog_btn_cancelar">Cancelar</string>
+    <string name="dialog_btn_salvar">Salvar Alterações</string>
+    <string name="dialog_editar_titulo">Editar tarefa</string>
+    <string name="hint_editar_tarefa">Nova descrição</string>
+</resources>
